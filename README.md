@@ -17,9 +17,9 @@
                                                  
 Team Members:
                                                                                                                     
-1. Vedansh Avlani - 16010120001
-2. Yash Gavade  - 16010120015
-3. Jinay Jain -16010120018
+1. 16010120001 - Vedansh Avlani 
+2. 16010120015 - Yash Gavade  
+3. 16010120018 - Jinay Jain 
 
                                                                                                                                                    
 
