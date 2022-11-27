@@ -1,17 +1,45 @@
-# generate token from mapbox site
+![image](https://user-images.githubusercontent.com/74112721/144545556-f1622854-5ddb-44c2-ae66-602c907b9289.png)
 
- https://www.mapbox.com/
+                                                              SOMAIYA VIDYAVIHAR UNIVERSITY         
+                                                    K. J. Somaiya College of Engineering, Mumbai -77
+                                                 (A Constituent College of Somaiya Vidyavihar University)
 
 
-# NPM USED::
-npm install --save react-map-gl mapbox-gl
+![image](https://user-images.githubusercontent.com/74112721/144545198-29fb944e-cc94-4bef-91aa-ff1ffbc8af90.png)
 
-# docs:
-https://visgl.github.io/react-map-gl/docs/get-started/get-started
 
-# REACT-MAP-GL:
-https://visgl.github.io/react-map-gl/docs/get-started/get-started
 
-# Commands:
-npm i
-npm start
+
+
+
+Team Members:
+
+
+1. Yash Gavade  - 16010120015
+2. Jinay Jain -16010120018
+
+
+
+
+# MERN-Project_ 
+
+
+####  Introduction: 
+
+
+# Readme:
+
+## Title
+## Prblm stat
+#### Motivation
+#### Atchitectural diagram
+## Class diagram
+#### Stack such as libraries
+## Requirements: node modules ke naam 
+#### Deployment koi password
+#### Ss optional
+#### What features have been implemented 
+#### Future scope
+#### Anything you want to mention about project 
+#### MERN stack mention 
+#### Part of college project 
